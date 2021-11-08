@@ -1,4 +1,12 @@
 obj
 bin
-appsettings.json
 *.db
+appsettings.Development.json
+appsettings.json
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen

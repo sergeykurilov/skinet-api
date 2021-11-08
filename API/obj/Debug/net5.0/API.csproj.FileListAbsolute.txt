@@ -1,5 +1,3 @@
-C:\Users\Sergey\skinet\API\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\Sergey\skinet\API\bin\Debug\net5.0\appsettings.json
 C:\Users\Sergey\skinet\API\bin\Debug\net5.0\API.exe
 C:\Users\Sergey\skinet\API\bin\Debug\net5.0\API.deps.json
 C:\Users\Sergey\skinet\API\bin\Debug\net5.0\API.runtimeconfig.json
@@ -58,4 +56,7 @@ C:\Users\Sergey\skinet\API\bin\Debug\net5.0\Core.dll
 C:\Users\Sergey\skinet\API\bin\Debug\net5.0\Infrastructure.dll
 C:\Users\Sergey\skinet\API\bin\Debug\net5.0\Infrastructure.pdb
 C:\Users\Sergey\skinet\API\bin\Debug\net5.0\Core.pdb
-C:\Users\Sergey\skinet\api\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\Sergey\skinet\api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Sergey\skinet\api\bin\Debug\net5.0\appsettings.json
+C:\Users\Sergey\skinet\api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Sergey\skinet\api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
