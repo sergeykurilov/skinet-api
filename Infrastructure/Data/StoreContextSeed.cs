@@ -9,7 +9,7 @@ using Microsoft.Extensions.Logging;
 
 namespace Infrastructure.Data
 {
-    public static class StoreContextSeed
+    public class StoreContextSeed
     {
         public static async Task SeedAsync(StoreContext context, ILoggerFactory loggerFactory)
         {
