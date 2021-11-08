@@ -12,8 +12,6 @@ F
 API/WeatherForecast.cs,f\b\fbf0a4ec759e19a4d8c06958a951d85a4b95ac35
 X
 (API/obj/Debug/net5.0/API.AssemblyInfo.cs,e\5\e53c90538ab04b3d47b115f805204c42c29d78e4
-\
-,API/Controllers/WeatherForecastController.cs,5\6\563d43be81deef1f800050c24895ad935c864194
 T
 $Infrastructure/Infrastructure.csproj,1\e\1eee757ae25be91d8006f58490360abe9e76bfb0
 L
