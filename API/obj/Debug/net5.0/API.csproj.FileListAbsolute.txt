@@ -60,4 +60,4 @@ C:\Users\Sergey\skinet\api\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\Sergey\skinet\api\bin\Debug\net5.0\appsettings.json
 C:\Users\Sergey\skinet\api\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\Sergey\skinet\api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\Sergey\skinet\api\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\Sergey\skinet\APi\obj\Debug\net5.0\API.csproj.CopyComplete

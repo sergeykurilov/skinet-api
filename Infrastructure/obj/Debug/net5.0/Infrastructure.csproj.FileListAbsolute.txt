@@ -12,4 +12,3 @@ C:\Users\Sergey\skinet\Infrastructure\bin\Debug\net5.0\Core.pdb
 C:\Users\Sergey\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
 C:\Users\Sergey\skinet\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
 C:\Users\Sergey\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
-C:\Users\Sergey\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
