@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="046bbac6-b3ea-4bae-b612-553de7478ec3" name="Changes" comment="section 11" />
+    <list default="true" id="046bbac6-b3ea-4bae-b612-553de7478ec3" name="Changes" comment="section 12">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +22,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/client" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/magicapi" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -35,6 +37,8 @@
       <workItem from="1636576527181" duration="14000" />
       <workItem from="1636662170145" duration="58000" />
       <workItem from="1637104346255" duration="72000" />
+      <workItem from="1637109529521" duration="69000" />
+      <workItem from="1637145991794" duration="40000" />
     </task>
     <task id="LOCAL-00001" summary="section 11">
       <created>1637104395257</created>
@@ -43,7 +47,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637104395257</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="section 12">
+      <created>1637109539512</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637109539512</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -59,9 +70,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="section 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="section 11" />
+    <MESSAGE value="section 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="section 12" />
   </component>
 </project>

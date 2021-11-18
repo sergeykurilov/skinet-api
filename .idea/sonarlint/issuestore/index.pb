@@ -34,12 +34,8 @@ Z
 API/Program.cs,5\9\592888ae48b31fae7f33797af4163cb7a377a4cf
 \
 ,API/Controllers/WeatherForecastController.cs,5\6\563d43be81deef1f800050c24895ad935c864194
-P
- API/appsettings.Development.json,1\9\1954b16dd075ae73405e77c34b7bc3a3c0fdbe46
 S
 #Infrastructure/Data/StoreContext.cs,d\2\d2b69ff0c5ffa8f4470f22e540a1887996bbf5aa
->
-API/Startup.cs,7\8\78cfdd543b82fd028f43dc178b45a9a4690b61a8
 Z
 *Infrastructure/Data/SeedData/products.json,f\8\f8842ad1a3fe773ca2bae585de6fb6d5893e131c
 T
