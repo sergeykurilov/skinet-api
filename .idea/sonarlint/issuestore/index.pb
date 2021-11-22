@@ -46,3 +46,21 @@ N
 API/Helpers/MappingProfiles.cs,0\b\0b9c8fc25360504e4b47873edf09014e4735788b
 I
 API/Helpers/Pagination.cs,3\4\3448108a29569f53649e06a283a9a135ab0fc7fb
+n
+>Core/Specifications/ProductsWithTypesAndBrandsSpecification.cs,f\3\f3cb73285869c8d7f329321c832e38f50330446b
+Y
+)Core/Specifications/ProductsSpecParams.cs,3\d\3d683612e6c6c85a2b066cb7db14284aef88b612
+U
+%Core/Specifications/ISpecification.cs,5\f\5fd3f848e44f36fbe552119ffbd1872bc3c239a7
+]
+-Infrastructure/Config/ProductConfiguration.cs,2\4\24802f7439f9ad8a2aa2ced886a91017bf755ca8
+n
+>Core/Specifications/ProductWithFiltersForCountSpecification.cs,4\3\43223cf2c23fb80082d517fa632fa0696007a552
+U
+%API/Controllers/ProductsController.cs,0\6\06e029ba27858d90a7b4879dc023eb10afc91eec
+U
+%Core/Inferfaces/IGenericRepository.cs,2\a\2aaa082303cf7f212554863516275b432d665b67
+X
+(Infrastructure/Data/GenericRepository.cs,e\9\e9b05d51e38508172e24ffd5c9a19db63cb4ca63
+X
+(Core/Specifications/BaseSpecification.cs,7\e\7e77b9ce0aabafb960799a6d8c118fcca945acdb
