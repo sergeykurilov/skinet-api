@@ -58,8 +58,6 @@ W
 'Infrastructure/Data/BasketRepository.cs,3\2\32be4dd91d755547f2a27d15692655e61b3e1559
 X
 (Infrastructure/Data/ProductRepository.cs,e\c\eceb03687d7e5677d37b36f88a23e697b5c74e6f
->
-API/.gitignore,4\a\4ae570af4fb0d0d4887ae2909b30adeb1c36a6ce
 K
 Core/Entities/BaseEntity.cs,6\c\6c4b128c1557e2f239291e60e0400f85dda315f8
 S
