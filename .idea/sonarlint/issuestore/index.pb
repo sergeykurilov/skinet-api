@@ -2,8 +2,6 @@
 :
 
 skinet.sln,c\3\c34ca7a172b45fef5544f6f863297f0cfc51cbaa
-@
-Core/Core.csproj,1\4\1451827062291137729e2a6555c6ed55d31db0e7
 Z
 *Core/obj/Debug/net5.0/Core.AssemblyInfo.cs,1\5\15bbddf0da7de22979ede375c5e1b7575714dc18
 n
@@ -12,8 +10,6 @@ F
 API/WeatherForecast.cs,f\b\fbf0a4ec759e19a4d8c06958a951d85a4b95ac35
 X
 (API/obj/Debug/net5.0/API.AssemblyInfo.cs,e\5\e53c90538ab04b3d47b115f805204c42c29d78e4
-T
-$Infrastructure/Infrastructure.csproj,1\e\1eee757ae25be91d8006f58490360abe9e76bfb0
 L
 Core/Entities/ProductType.cs,8\f\8f3cb3784b28ae1f83b83b5476b85781b7537fbc
 M
@@ -30,20 +26,14 @@ W
 'Infrastructure/Data/SeedData/types.json,8\b\8bfcbe4c68dc436a38b0bb45b31230015fa7b5c7
 Z
 *Infrastructure/Data/SeedData/delivery.json,9\4\94c1c14424e0ebe81162e872eb826bd26daeac9c
->
-API/Program.cs,5\9\592888ae48b31fae7f33797af4163cb7a377a4cf
 \
 ,API/Controllers/WeatherForecastController.cs,5\6\563d43be81deef1f800050c24895ad935c864194
-S
-#Infrastructure/Data/StoreContext.cs,d\2\d2b69ff0c5ffa8f4470f22e540a1887996bbf5aa
 Z
 *Infrastructure/Data/SeedData/products.json,f\8\f8842ad1a3fe773ca2bae585de6fb6d5893e131c
 T
 $API/Controllers/BaseApiController.cs,e\5\e5bb8d8298ca6278213917c55e30f97981f06305
 ]
 -Infrastructure/Data/SpecificationEvaluator.cs,a\9\a9faa7d0aebf5a9bfd891308efaa27b74b4346a3
-N
-API/Helpers/MappingProfiles.cs,0\b\0b9c8fc25360504e4b47873edf09014e4735788b
 I
 API/Helpers/Pagination.cs,3\4\3448108a29569f53649e06a283a9a135ab0fc7fb
 n

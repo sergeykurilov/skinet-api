@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "FrWi6wMyKMfpAgRPVPQJD9FtinnKAP7ODhtiNiQBkixTl1wk/tyJgyTPl1F1XYevFbR4Jk6qcvnkqlUAc3yjWA==",
+  "dgSpecHash": "YSipt5Y2XX7A9IhuByFLDDW1U9R5mHVcqJ6rTSZf3YVqNkJFLdHpbgYT317tT8EufZq3WgGCweMS/6YOo6cpzg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Sergey\\skinet\\Core\\Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Sergey\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.11\\microsoft.aspnetcore.cryptography.internal.5.0.11.nupkg.sha512",
+    "C:\\Users\\Sergey\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.11\\microsoft.aspnetcore.cryptography.keyderivation.5.0.11.nupkg.sha512",
+    "C:\\Users\\Sergey\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Sergey\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\Sergey\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Sergey\\.nuget\\packages\\microsoft.extensions.identity.core\\5.0.11\\microsoft.extensions.identity.core.5.0.11.nupkg.sha512",
+    "C:\\Users\\Sergey\\.nuget\\packages\\microsoft.extensions.identity.stores\\5.0.11\\microsoft.extensions.identity.stores.5.0.11.nupkg.sha512",
+    "C:\\Users\\Sergey\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\Sergey\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Sergey\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Sergey\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
