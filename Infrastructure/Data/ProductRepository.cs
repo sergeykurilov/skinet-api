@@ -34,7 +34,7 @@ namespace Infrastructure.Data
 
         public async Task<IReadOnlyList<ProductBrand>> GetProductBrandAsync()
         {
-            return await _context.ProductsBrands.ToListAsync();
+            return await _context.ProductBrands.ToListAsync();
         }
 
         public async Task<IReadOnlyList<ProductType>> GetProductTypesAsync()
