@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\bin"
+    "\\Controllers",
+    "\\Dtos",
+    "\\Errors",
+    "\\Extentions",
+    "\\Properties"
   ],
   "PreviewInSolutionExplorer": false
 }

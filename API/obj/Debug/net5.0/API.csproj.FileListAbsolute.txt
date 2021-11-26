@@ -79,3 +79,4 @@ C:\Users\Sergey\skinet\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dl
 C:\Users\Sergey\skinet\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Sergey\skinet\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Sergey\skinet\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sergey\skinet\API\obj\Debug\net5.0\API.csproj.CopyComplete

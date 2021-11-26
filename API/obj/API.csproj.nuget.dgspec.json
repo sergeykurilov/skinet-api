@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sergey\\skinet\\api\\API.csproj": {}
+    "C:\\Users\\Sergey\\skinet\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sergey\\skinet\\api\\API.csproj": {
+    "C:\\Users\\Sergey\\skinet\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sergey\\skinet\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Sergey\\skinet\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Sergey\\skinet\\api\\API.csproj",
+        "projectPath": "C:\\Users\\Sergey\\skinet\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Sergey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sergey\\skinet\\api\\obj\\",
+        "outputPath": "C:\\Users\\Sergey\\skinet\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -241,6 +241,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
